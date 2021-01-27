@@ -26,6 +26,9 @@
 	20. [Compatibility](#320-compatibility)
 4. [Overall Assessment](#4-overall-assessment)
 5. [Conclusion](#5-conclusion)
+6. [Appendix](#6-appendix)
+	1. [Sources of inspiration](#61-sources-of-inspiration)
+	2. [Rejected criteria](#62-rejected-criteria)
 
 ## 1. Introduction
 The purpose is to create a methodical framework and formalisation of the Danish National Archives’ ongoing work concerning and discussing the approval of new formats for long-term preservation in the Danish National Archives’ preservation system.
@@ -129,3 +132,26 @@ The criterion is weighted 1, as system independence have an impact on the possib
 The overall assessment is the sum of the values multiplied by their weighting and is also indicated as a normalised score between 0 and 1 . The format that achieves the highest score (without disqualifying criteria) is considered to be the most suitable preservation format, but if several formats achieve an overall rating close to each other, they can be juxtaposed. The overall assessment results in a recommendation written in note format, which can be taken further as the basis for a subjective management decision for the approval of a new preservation format. The recommendation is the end result of the format assessment.
 ## 5. Conclusion
 This document provides guidance in the use of the table Format Assessment Form v2.1, and through a quantified method, it enables the Danish National Archives to assess formats for approval as preservation formats for which data can be submitted in by authorities and private actors. The method is a contribution of an approval procedure and solely provides a professional recommendation based on a selection of criteria that relate to how the format behaves technically within a wider societal context.
+## 6. Appendix
+The assessment of the criteria that are usable in the context of the Danish National Archives’ digital archiving strategy has been based on a study of the practice that the Danish National Archives has previously used as well as what practices are used at other digital preservation institutions in an international context. The following two appendices list the inspiration for the selection of criteria as well as the reason for the rejection of criteria.
+### 6.1. Sources of inspiration
+* Benjamin Yousefi (2017): InterPARES, The Swedish National Archives, Sweden
+* Brown, Adrian (2008): Selecting File Formats for Long-Term Preservation, The National Archives, England
+* Johansen, Kathrine Hougaard Edsen (2015): Udvalgte formater og deres egenskaber, retrieved on 20 August 2019 from: https://digitalbevaring.dk/viden/filformater-bevaring/
+* Katalog Archivischer Dateiformate (2015), The Swiss Federal Archives, version 4.1, Switzerland
+* Kriterier for filformater, The Danish National Archives
+* Filformatmatrice (2009), The Danish National Archives
+* Sustainability of Digital Formats: Planning for Library of Congress Collections, Library of Congress, USA
+* Digital Preservation Handbook (2015), Digital Preservation Coalition, retrieved on 5 August 2019 from: https://www.dpconline.org/handbook/technical-solutions-and-tools/file-formats-and-standards
+### 6.2. Rejected criteria
+The list below specifies identified criteria from the sources of inspiration that were rejected for the form and a brief justification is given.
+
+Criterion | Explanation | Reason for rejection
+------------ | ------------- | -------------
+Metadata | Ample opportunities for recording embedded metadata. | It is a better practice to keep metadata in a separate table.
+Format class | The format is well established within its content type.  | Overlap with “prevalence”.
+Complexity | The format is at risk of complexity resulting in deficiencies or misinterpretation of the format. | The criterion is only applied to video formats, and we want generally valid criteria. Also overlap with “significant properties” (possibly an antonym. Paradox)
+Scaling | The format can be easily scaled upon migration. | Overlap with “storage” and “migration”
+Destination format | The format has several specific formats that can be migrated to. | Overlap with “migration”.
+Authenticity | The format can be migrated without loss of authenticity. | Overlap with “Significant properties” and “migration”.
+Recreation | The format helps us to recreate data more authentically (higher scores on significant properties) than other formats. | Overlap with “Dissemination” and “significant properties”.
