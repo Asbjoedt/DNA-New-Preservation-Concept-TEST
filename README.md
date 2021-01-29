@@ -3,4 +3,4 @@ This is the Github of the project **New Preservation Concept** developed by the 
 
 **Deliverables**
 1. [New digital archiving policy and digital preservation strategy]()
-2. [New concept model for development of preservation plans](https://github.com/Asbjoedt/DNA-New-Preservation-Concept-TEST/tree/main/Concept%20Model%20for%20Development%20of%20Preservation%20Plans)
+2. [New concept model for development of preservation plans](https://github.com/Asbjoedt/DNA-New-Preservation-Concept-TEST/tree/main/Concept%20Model)
