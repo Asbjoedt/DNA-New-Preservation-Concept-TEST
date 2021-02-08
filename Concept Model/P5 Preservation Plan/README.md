@@ -3,7 +3,7 @@
 ## Table of contents
 1. [Introduction](#1-introduction)
 2. [What is a preservation plan?](#2-what-is-a-preservation-plan)
-3. [The Danish National Archives’ preservation plans for digitally born data](#3-the-danish-national-Archives’-preservation-plans-for-digitally-born-data)
+3. [The Danish National Archives preservation plans for digitally born data](#3-the-danish-national-archives-preservation-plans-for-digitally-born-data)
 	1. [Content type](#31-content-type)
 	2. [Data formats](#32-data-formats)
 4. [Preservation levels](#4-preservation-levels)
@@ -21,7 +21,7 @@ The purpose of preservation plans is to create a factual and documented basis fo
 A preservation plan transforms the policies and strategies, which management have created for your archive’s operation, into guidance for real preservation actions. A preservation plan is the lowest and most detailed level for preservation.
 The preservation plan primarily entails to how an AIP should be created and maintained over time, but it may also describe conditions relating to SIP and DIP. These affect and are vice versa affected by the AIP. The preservation plan must describe which data it delimits, the migration paths for data, storage, monitoring and the detailed data management.
 
-## 3. The Danish National Archives’ preservation plans for digitally born data
+## 3. The Danish National Archives preservation plans for digitally born data
 The DNA’s preservation plans for digitally created data governs both content types and file formats – both not collections and archival fonds. The point of the preservation plans is to enable the DNA to assess and document how the preservation of specific data are to be tackled and under what conditions. It is crucial to remark, that these preservation plans does not include any kind of assessment of preservation-worth (whether to preserve or to destroy data), but they document and collate how we preserve the data.
 Regarding storage, the DNA have the policy that digitally created data must be stored on multiple media types, multiple locations, multiple organisations, and that control of data integrity (checksums) must be performed yearly, which is why it does not make sense to specify these conditions in the preservation plans for specific content types or file formats. 
 
@@ -29,7 +29,7 @@ Regarding storage, the DNA have the policy that digitally created data must be s
 Preservation plans for content types must be delivered in a report with free choice of disposition. The report must collate the assessments and tests applied in the previous steps of the concept model, and it must conclude on these as recommendations for the long term preservation of the content type’s data. The content type preservation plan must be delivered together with specific preservation plans for the investigated file formats, and these must be delivered by applying a template (see 8.1. Template). 
 Preservation plans for content types are the last step of the concept model, and they will typically only be reformulated, if the content types is reinvestigated by use of the concept model. On the other hand, preservation plans for specific file formats may be reformulated when necessary (see 7. Reformulation and monitoring).
 
-
+![Relationship between file formats, content types and preservation plans in the concept model](https://github.com/Asbjoedt/New-Preservation-Concept/blob/main/Concept%20Model/P5%20Preservation%20Plan/Illustration%20of%20relationships.PNG?raw=true)
 
 Figure 1. Relationship between file formats, content types and preservation plans in the concept model.
  
