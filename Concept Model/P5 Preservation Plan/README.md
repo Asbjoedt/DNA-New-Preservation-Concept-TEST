@@ -73,3 +73,33 @@ The step P5 Preservation Plan leads to the following deliverables:
 
 ### 8.1. Template
 Apply the document “Template_Preservation Plan for Data Format” to fill the preservation plan. After filling the information, the information must be copied to the spreadsheet “Table_Preservation Plans for Data Formats”. The spreadsheet will from now on be the place where the preservation plan is updated. Therefore, the template only has a purpose in connection to the initial concept model investigation where a large amount of information is collated and registered.
+
+The template contains the following fields:
+
+| Field			| Description									|
+| ----------------------|-------------------------------------------------------------------------------|
+| **Start date**	| State start date for preservation plan 					|
+| **End date**		| State end date for preservation plan 						|
+| **Content type**	| State the data area, which the format relates to e.g. ”spreadsheet”		|
+| **Full name**		| The entire name of the format (without year and version number) 		|
+| **Other names**	| Other ways of writing the name, both formal and informal 			|
+| **Version**		| The version number of the standard this preservation plan covers 		|
+| **File extensions**	| The file format extensions 							|
+| **Description**	| Brief description of the characteristics of the file format 			|
+| **Standard**		| The name of the standard this preservaton plan covers 			|
+| **Publication year**	| Year of publication for the standard 						|
+| **Publisher**		| Name of the publisher(s) of the standard 					|
+| **License**		| How is the file format regulated? E.g. ”Open”, ”Proprietary” etc. 		|
+| **Other standard**	| If another standard for the file format is also valid 			|
+| **Pronom PUID**	| ID in the technical registry PRONOM 						|
+| **MIME type**		| What is the file format’s MIME type? 						|
+| **Signature**		| What is the signature (magical number) of the format? 			|
+| **Format assessed**	| Has the file format been  assessed by use of the concept model? Yes/No	|
+| **Preservation level**| What preservation level is chosen? Maximal/Middle/Minimal/None		|
+| **Convert to**	| Which file formats must the file format be converted to before submission? 	|
+| **Convert from**	| Which file formats are the file format converted to before submission? 	|
+| **Validation req.**	| Which significant proper are required for validation of migration? 		|
+| **Validation tool**	| Which tool(s) should be used for validation? 					|
+| **Risks**		| Which risks exist in the long term preservation of the file format? 		|
+| **Monitoring**	| How should the file format be monitored?  Ordinary/Yarly/Intensive/None 	|
+| **Comments**		| Possible other comments e.g. next steps 					|
