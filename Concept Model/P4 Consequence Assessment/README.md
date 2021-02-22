@@ -45,7 +45,9 @@ The consequence assessment table calculates a sum for every preservation format 
 What is time, money and quality?
 * Time is defined as the extent of manual and time demanding workflows
 *	Money is defined as the consequences that may be converted to a monetary unit
-*	Quality is defined as 1) better possibilities for automatic validation of data and 2) better preservation of significant properties.
+*	Quality is defined as:
+		* Better possibilities for automatic validation of data and 
+		* Better preservation of significant properties.
 
 OBS! You may freely add more columns if more preservation formats or levels are assessed, but then it will involve a customisation of the spreadsheet template i.e. among other securing that the automatic copying of numbers are correct. This will necessitate a firm understanding of how spreadsheets work.
 
@@ -57,17 +59,19 @@ The sheet ”Preconditions” contain the figures, which are applied in the econ
 
 **Table 1.** The basic numbers used in ”Preconditions”. The prices must be adjusted if they are no longer valid. When you see an x, the number must be adjusted according to the content type!
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|  | Number |  | Explanation of presumption  |
+| --- |---| ---|---|
+| Price per hour | 600 | EUR/hour | |
+| Price per hour, consultant/developer | 1500 | EUR/hour | |
+| Price per hour, dialogue with data producer | 2700 | EUR/hour | |
+| Averafge price for storage | 1736 | EUR/TB/year |  |
+| Average size of submissions | 1.3 | TB |  |
+| Share of content type per submission | x | % |  |
+| Yearly submissions | x | amount |  |
+| Share of submissions with content type | x | % |  |
+| Workhours for production of submission | x | hour |  |
+| Error rate in conversion due to content type | x | % |  |
 
-Basic numbers	Explanation of presumption
-Price per hour, your archive	600	EUR/hour	
-Price per hour, consultant/developer	1500	EUR/hour	
-Price per hour, dialogue with data producer	2700	EUR/hour	
-Average price for storage	1736	EUR/TB/year	
 Average size of submissions	1.3	TB	
 Share of content type per submission	x	%	
 Yearly submissions	x	amount	
@@ -98,7 +102,7 @@ Likewise, the report must contain a separate description of the economic consequ
 
 **Table 2.** Continuous costs associated with operation. Costs can be stated in total per year or per submission.
 
-| Distribution | Currency  | Figure |
+| Distribution |  | Figure |
 | -------- |--------------| ----------|
 | Your archive | EUR/year | *e.g.* 88,382 |
 | Data producer/Their supplier | EUR/year | *e.g.* 115,042 |
@@ -106,7 +110,7 @@ Likewise, the report must contain a separate description of the economic consequ
 
 **Table 3.** Individual costs associated with start-up.
 
-| Distribution | Currency  | Figure |
+| Distribution |  | Figure |
 | -------- |--------------| ----------|
 | Your archive | EUR | *e.g.* 218,299 |
 | Data producer/Their supplier | EUR | *e.g.* 432,188 |
@@ -122,7 +126,7 @@ The document ”Spreadsheet_Consequence Asssesment” must be filled. It contain
 
 ### 5.2. Report
 The spreadsheet must be accompanied by a report describing the execution of the assessment, the results and the conclusion. The disposition must at least include:
-1.	Introduction (must contain the main points of the conclusion)
-2.	Description of the results of the “Consequence assessment” sheet
-3.	Description of the economic consequences
-4.	Conclusion
+1. Introduction (must contain the main points of the conclusion)
+2. Description of the results of the “Consequence assessment” sheet
+3. Description of the economic consequences
+4. Conclusion
