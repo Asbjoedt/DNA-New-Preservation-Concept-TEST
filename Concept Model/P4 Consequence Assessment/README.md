@@ -44,15 +44,15 @@ The consequence assessment table calculates a sum for every preservation format 
 
 What is time, money and quality?
 * Time is defined as the extent of manual and time demanding workflows
-*	Money is defined as the consequences that may be converted to a monetary unit
-*	Quality is defined as:
+	* Money is defined as the consequences that may be converted to a monetary unit
+	* Quality is defined as:
 		* Better possibilities for automatic validation of data and 
 		* Better preservation of significant properties.
 
 OBS! You may freely add more columns if more preservation formats or levels are assessed, but then it will involve a customisation of the spreadsheet template i.e. among other securing that the automatic copying of numbers are correct. This will necessitate a firm understanding of how spreadsheets work.
 
 ### 2.2. Economy
-The sheet ”Economy” contain economic figures for your selection of the business areas. Every area is filled with figures from the sheet “Preconditions”. Sum is given for ”continuous costs” and ”start-up” for every preservation format or level. Subsums are calculated based on who bears the costs i.e. your archive or the data producers/their suppliers. The purpose of the sheet is to highlight where in the business areas the costs distribute, if they are associated with startup or operation and who bears the costs. With regards to the latter, it may as well be the data producers and their suppliers as it may be your archive, and the subsum shows hereby the total societal costs, irregardless of who bears them.
+The sheet ”Economy” contain economic figures for your selection of the business areas. Every area is filled with figures from the sheet “Preconditions”. Sum is given for ”continuous costs” and initial costs” for every preservation format or level. Subsums are calculated based on who bears the costs i.e. your archive or the data producers/their suppliers. The purpose of the sheet is to highlight where in the business areas the costs distribute, if they are associated with startup or operation and who bears the costs. With regards to the latter, it may as well be the data producers and their suppliers as it may be your archive, and the subsum shows hereby the total societal costs, irregardless of who bears them.
 
 ### 2.3. Preconditions
 The sheet ”Preconditions” contain the figures, which are applied in the economic calculations in the sheet “Economy”. The figures must be adjusted according to needs. The figures include both basic numbers based off presumptions such as hourly prices for your archive and suppliers, price per terabyte, number of yearly submissions of the content type etc. The presumptions must as far as possible be up-to-date and reasoned, and for this reason they must be adjusted if necessary. Following the basic numbers are rows with adjustable values for every preservation format/level according to business area.
@@ -72,18 +72,11 @@ The sheet ”Preconditions” contain the figures, which are applied in the econ
 | Workhours for production of submission | x | hour |  |
 | Error rate in conversion due to content type | x | % |  |
 
-Average size of submissions	1.3	TB	
-Share of content type per submission	x	%	
-Yearly submissions	x	amount	
-Share of submissions with content type	x	%	
-Workhours for production of submission	x	hours	
-Error rate in conversion due to content type	x	%	
-
 ### 2.4. Terminology
 The sheet ”Terminology” contain explanations of the spreadsheet terms and values of drop-down menus. The sheet is used for data validation and must therefore not be deleted. However, content may be adjusted when necessary. The sheet contains the following headings with related data validation values and explanations:
-•	Consequence types
-•	Business areas consequences
-•	Currency delimitation
+* Consequence types
+* Business areas consequences
+* Currency delimitation
 
 ## 3. Description of assessment results
 The report must contain a description of the results of the “Consequence assessment” sheet. Here, every business area and related consequences must be described and reasoned for every preservation format/level and every type of consequence. Numbers from the sheet “Economy” and time estimations must be included.
@@ -98,7 +91,7 @@ E.g.
 		*	2.1.2. Conversion
 
 ## 4. Description of economic consequences
-Likewise, the report must contain a separate description of the economic consequences from the sheet “Economy”. The most crucial sums for respectively continuous costs and start up for both your archive and the data producers/their suppliers must be copied to two tables as shown below.
+Likewise, the report must contain a separate description of the economic consequences from the sheet “Economy”. The most crucial sums for respectively continuous costs and initial costs for both your archive and the data producers/their suppliers must be copied to two tables as shown below.
 
 **Table 2.** Continuous costs associated with operation. Costs can be stated in total per year or per submission.
 
@@ -108,7 +101,7 @@ Likewise, the report must contain a separate description of the economic consequ
 | Data producer/Their supplier | EUR/year | *e.g.* 115,042 |
 | Sum | EUR/year | 203,424 |
 
-**Table 3.** Individual costs associated with start-up.
+**Table 3.** Initial costs associated with start-up.
 
 | Distribution |  | Figure |
 | -------- |--------------| ----------|
@@ -122,7 +115,7 @@ The calculations rely on several numbers that are preconditioned. The numbers mu
 The entire P4 Consequence Assessment is delivered as a spreadsheet and a report.
 
 ### 5.1. Spreadsheet
-The document ”Spreadsheet_Consequence Asssesment” must be filled. It contains two analyses respectively a numerical assessment of consequences for time, money and quality and an economic assessment with calculations for continuous and startup costs connected to every preservation format/level assessed. 
+The document ”Spreadsheet_Consequence Asssesment” must be filled. It contains two analyses respectively a numerical assessment of consequences for time, money and quality and an economic assessment with calculations for continuous and initial costs connected to every preservation format/level assessed. 
 
 ### 5.2. Report
 The spreadsheet must be accompanied by a report describing the execution of the assessment, the results and the conclusion. The disposition must at least include:
